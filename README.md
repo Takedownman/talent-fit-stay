@@ -1,5 +1,7 @@
 # Talent Fit & Stay
 
+https://z4guew8wv3fvvqtjrfi7xy.streamlit.app/
+
 **Resume-to-job matching + attrition-risk scoring**  
 Portfolio project by **Takedownman**
 
